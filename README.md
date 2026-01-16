@@ -1,5 +1,8 @@
 # Data and Code accompanying the paper "Overwintering strategies drive climate change impacts on body mass in northern mammals"
+Code: Licensed under the MIT License.
+Data: Licensed under the Creative Commons Attribution 4.0 International (CC-BY-4.0) License. 
 
+---
 ### Authors
 - Olivia Leach  
 - Michael J.L. Peers
