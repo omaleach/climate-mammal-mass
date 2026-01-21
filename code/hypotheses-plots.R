@@ -16,9 +16,7 @@ spring.mice <-read.csv(spring.mice_path)%>%
 #######################################
 #HYPOTHESES GRAPHS
 #####################################
-library(cowplot)
-library(grid)
-library(gridExtra)
+
 #Hypothetical Graphs
 ################################################
 #Exposed H1
