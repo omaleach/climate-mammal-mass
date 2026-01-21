@@ -1,0 +1,33 @@
+{
+  "metadata": {
+    "creators": [
+      {
+        "affiliations": [
+          {
+            "id": "edmo:4591",
+            "identifiers": [
+              {
+                "identifier": "edmo:4591",
+                "scheme": "edmo"
+              }
+            ],
+            "name": "Memorial University of Newfoundland, Department of Biology"
+          }
+        ],
+        "person_or_org": {
+          "family_name": "Leach",
+          "given_name": "Olivia",
+          "identifiers": [
+            {
+              "identifier": "0009-0004-1007-5927",
+              "scheme": "orcid"
+            }
+          ],
+          "name": "Leach, Olivia",
+          "type": "personal"
+        }
+      }
+    ],
+    "description": "<div dir=\"auto\">\n<h1>Data and Code accompanying the paper \"Overwintering strategies drive climate change impacts on body mass in northern mammals\"</h1>\n<a href=\"https://github.com/omaleach/climate-mammal-mass/blob/main/README.md#data-and-code-accompanying-the-paper-overwintering-strategies-drive-climate-change-impacts-on-body-mass-in-northern-mammals\"></a></div>\n<p dir=\"auto\">Code: Licensed under the GPL-3 License.</p>\n<p dir=\"auto\">Data: Licensed under the CC-BY-4.0 License.</p>\n\n\n<div dir=\"auto\">\n<h3>Authors</h3>\n<a href=\"https://github.com/omaleach/climate-mammal-mass/blob/main/README.md#authors\"></a></div>\n<ul>\n<li>Olivia Leach</li>\n<li>Michael J.L. Peers</li>\n<li>Abigail Earle</li>\n<li>Yasmine N. Majchrzak</li>\n<li>Rudy Boonstra</li>\n<li>Stan Boutin</li>\n<li>Dennis L. Murray</li>\n<li>Thomas S. Jung</li>\n<li>B. Scott Gilbert</li>\n<li>Alice J. Kenney</li>\n<li>Eric Vander Wal</li>\n</ul>",
+    "publisher": "Zenodo"
+}
