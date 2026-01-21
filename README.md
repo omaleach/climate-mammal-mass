@@ -1,4 +1,7 @@
 # Data and Code accompanying the paper "Overwintering strategies drive climate change impacts on body mass in northern mammals"
+
+[![DOI](https://zenodo.org/badge/1135838064.svg)](https://doi.org/10.5281/zenodo.18329821)
+
 Code: Licensed under the GPL-3 License.
 
 Data: Licensed under the CC-BY-4.0 License.
